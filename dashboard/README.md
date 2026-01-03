@@ -6,5 +6,5 @@ An interactive Tableau dashboard exploring hitter value and playing time.
 https://public.tableau.com/app/profile/alina.attiq/viz/BlueJaysHitters-WARvsPA2024/TorontoBlueJaysHittersWAROffensiveValue2024?publish=yes 
 
 ### Preview
-![blue-jays-2024-performance-analysis](dashboard/
+(dashboard/Toronto Blue Jays Hitters — WAR & Offensive Value (2024).png)
 
