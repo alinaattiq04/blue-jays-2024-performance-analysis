@@ -19,3 +19,13 @@ Project structure
 - sql/: table creation + analysis queries (next step)
 - reports/: written findings and saved figures
 - dashboard/: Tableau link + screenshot
+
+## 📊 Interactive Dashboard
+
+An interactive Tableau dashboard exploring hitter value and playing time.
+
+**View Dashboard (Tableau Public):**  
+(https://public.tableau.com/app/profile/alina.attiq/viz/BlueJaysHitters-WARvsPA2024/TorontoBlueJaysHittersWAROffensiveValue2024?publish=yes)
+
+### Preview
+![Blue Jays Dashboard](dashboard/bluejays_hitters_dashboard.png)
